@@ -5,8 +5,8 @@ Takes a mangastream.com chapter URL e.g.
 and extracts all images to title/chapter e.g.
     demons_plan/010/01.png
     demons_plan/010/02.png
-See https://kaijento.github.io/2017/03/23/Web-Scraping-mangastream.com/
-for details
+
+https://kaijento.github.io/2017/03/23/Web-Scraping-mangastream.com/
 '''
 
 from __future__ import print_function
@@ -32,8 +32,10 @@ def get(url):
 def save_page(url):
     soup = get(url)
     url = soup.find(id='manga-page')['src']
+
     filename = url.split('/')[-1]
-    path     = os.path.join(dirname, filename)
+    path = os.path.join(dirname, filename)
+
     with open(path, 'wb') as fh:
         print('GET:   ', url)
         image = s.get(url).content
