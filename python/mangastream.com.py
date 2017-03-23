@@ -24,7 +24,14 @@ def makedirs(dirname):
         else:
             raise
 
-def save_image(url):
+def get(url):
+    print('GET:   ', url)
+    r = s.get(url)
+    return BeautifulSoup(r.content, 'html5lib')
+
+def save_page(url):
+    soup = get(url)
+    url = soup.find(id='manga-page')['src']
     filename = url.split('/')[-1]
     path     = os.path.join(dirname, filename)
     with open(path, 'wb') as fh:
@@ -32,14 +39,6 @@ def save_image(url):
         image = s.get(url).content
         print('CREATE:', path)
         fh.write(image)
-
-def parse_page(url):
-    print('GET:   ', url)
-    r    = s.get(url)
-    soup = BeautifulSoup(r.content, 'html5lib')
-
-    img = soup.find(id='manga-page')
-    save_image(img['src'])
 
 if __name__ == '__main__':
 
@@ -50,16 +49,9 @@ if __name__ == '__main__':
 
     with requests.session() as s:
         s.headers['user-agent'] = 'Mozilla/5.0'
-
-        print('GET:   ', url)
-        r    = s.get(url)
-        soup = BeautifulSoup(r.content, 'html5lib')
-
-        img = soup.find(id='manga-page')
-        save_image(img['src'])
-
+        soup = get(url)
         last = soup.select('.btn-reader-page a')[-1]['href'].split('/')[-1]
 
-        for n in range(2, int(last) + 1):
-            next_page = url.strip('/') + '/{}'.format(n)
-            parse_page(next_page)
+        for n in range(1, int(last) + 1):
+            page = url.strip('/') + '/{}'.format(n)
+            save_page(page)
