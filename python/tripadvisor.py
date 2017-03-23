@@ -1,4 +1,5 @@
 '''
+author: Karl Thornton <karl.genockey.thornton@gmail.com>
 Implementation of tripadvisor's asdf "de-obfuscation" javascript function
 in Python
 https://kaijento.github.io/2017/03/17/scraping-the-website-url-from-tripadvisor/
