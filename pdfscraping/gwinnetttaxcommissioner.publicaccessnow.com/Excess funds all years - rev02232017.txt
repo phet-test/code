@@ -1,0 +1,102 @@
+                                                                                                                     Gwinnett County Tax Commissioner
+                                                                                                                               Excess Funds
+
+
+
+
+                                                                       A                                 B                                                  D                                                 E                      J                K
+
+1
+     Highlighted parcels funds are still available to make claim on, but have pending claims.   Updated 02/23/2017
+                                                                                                                                                                                                                                                    TAX SALE
+                                                                 NAME OF BUYER                    PARCEL NUMBER                                          OWNER                                               SITUS              EXCESS FUNDS
+2                                                                                                                                                                                                                                                 MONTH/YEAR
+
+3    TONY MOUSSA ELIA                                                                           R3007 766            FLOWERY BRANCH DEVELOPMENT LLC                                          1930 LILY STEM TRL             $         289.31      AUG 2011
+4    IRIE INVESTMENTS/DAVE VAZ                                                                  R6066 125            KILGORE KARIN J                                                         2049 MCDANIELS BRIDGE RD       $       3,551.35      AUG 2011
+5    MOHAMMED SHAMIM                                                                            R6109 041            NATIONAL MORTGAGE GROUP                                                 RIVER DR                       $         301.43      AUG 2011
+6    MYONG B. LIM                                                                               R6218 067            PORATH LLC                                                              CRESCENT DR                    $       1,258.71      AUG 2011
+7    M. SHAHID KHAN                                                                             R5027 063            SANCTUARY HOMES INC                                                     GREENVALLEY RD                 $            723.86   OCT 2011
+8    BALOGUN OLUFEMI AB                                                                         R7117 175            BOWEN FAMILY HOMES, INC                                                 2237 STAUNTON DR               $            620.81   DEC 2011
+9    DHANALAKSHIMI M. SHUKLA & GURUBACHAN GOTHRA SIGNH                                          R7302 079D           PALMOUR OMA                                                             MONTGOMERY LA                  $            331.07   DEC 2011
+10   PJS' GOLDEN PARACHUTE LLC                                                                  R5048 576            RICHARDSON HOUSING GROUP INC                                            OAKLAND RD                     $             72.86   MAR 2012
+11   DEBORAH RICHMOND                                                                           R6020 205            FEDERAL NATIONAL MORTGAGE ASSO                                          3514 BROXTON LN                $            949.51   MAY 2012
+12   MIKE HAMILTON                                                                              R7083 006A           WHITE CATHERINE G                                                       1085 TAB ROBERTS RD            $            973.42   MAY 2012
+13   FENG YAN                                                                                   R7293 185            HERRINGTON JOSHUA P                                                     200 OLD SWIMMING POOL RD       $         411.44      MAY 2012
+14   CYPRESS PROPERTY GROUP                                                                     R7337 175            ROUSH SCOTT L                                                           5750 AUSTIN GARNER RD          $       1,856.13      MAY 2012
+15   JOHN B. ADAMS                                                                              R5027 094            SANCTUARY HOMES INC                                                     2347 LENORA CHURCH RD          $              8.31   JUN 2012
+16   GILSON MOTTA                                                                               R7073 188            ABU-SHAWAREB HASSAN M                                                   1460 RACQUET CLUB DR           $              6.65   JUN 2012
+17   NR DEED, LLC, AN INDIANA CORPORATION                                                       R6157 305            TEAGUE MONIKA MARIE                                                     617 JOHNS WAY                  $            185.76   DEC 2012
+18   FRANCESCA GOINS                                                                            R6173B074            BOBB ASWAD                                                              1026 WUTHERING WAY             $             60.20   DEC 2012
+19   KRISNA INVESTMENT LLC                                                                      R6197 007            HOLCOMBE JACK                                                           PIRKLE RD                      $            349.91   DEC 2012
+20   NR DEED, LLC, AN INDIANA CORPORATION                                                       R6254 269            STEVENS BERNADINE D                                                     2931 QUEENS CT                 $     55,162.74       DEC 2012
+21   THOMAS ELAKATT                                                                             R7294C006            TERRELL JAMES RICHARD                                                   151 NORTH CHURCH ST            $      2,754.61       DEC 2012
+22   LONG RIVER INVESTMENTS INC                                                                 R5147 125            RODRIGUEZ AUGUSTINE & A ALISA                                           101 NEAL BLVD                  $        285.48       DEC 2012
+23   LUSINE H WHITFIELD                                                                         R7351 127            FEDERAL HOME LOAN MORTGAGE CORP                                         6268 STEWART RIDGE WALK        $            618.21   DEC 2012
+24   NEST EGG PROPERTIES                                                                        R5101 322            T & A INVESTMENT GROUP INC                                              ROSEBUD RD                     $       5,379.76      MAR 2013
+25   DOVER PLACE CONDOMINIUM ASSOCIATION                                                        R6173 002            HOWELL STEVE                                                            1064 INDIAN TRAIL LILBURN RD   $       1,296.44      MAR 2013
+26   NOOR INVESTMENTS HOLDINGS LLC                                                              R6218   067          PORATH LLC                                                              CRESCENT DR                    $        140.77       MAR 2013
+27   RAJESH PATEL (KRISNA INVESTMENT LLC) GRP IN                                                R7232   051          BURNETT HOLDING CO PROP GRP IN                                          OLD SUWANEE RD                 $        572.90       MAR 2013
+28   MOHAMMED A FAIYAZ                                                                          R6190   034A         DEUTSCHE BANK NATIONAL TRUST COMPANY                                    6296 OAKWOOD CIR               $        219.80       JUN 2013
+29   GWINNETT COUNTY 2013-06 TRUST - STUART SYLVESTOR TRUSTEE                                   R7042   003B         DOWNS MABLE                                                             1368 HERRINGTON RD             $     11,885.58       JUN 2013
+30   JAMES E MOON                                                                               R7042   023          PYLANT FRANK ETAL                                                       HERRINGTON RD                  $      2,840.96       JUN 2013
+31   THE AMERICAN HOME REIT PURCHASES 1, LLC                                                    R7349   080          CUSTOM ONE DEV RIVERSIDE LLC                                            1015 RIVERSIDE WALK XING       $        496.99       JUN 2013
+32   KIM NGAN LE                                                                                R6027   109          MACEIRA MARINES                                                         4585 ANNISTOWN RD              $      3,428.65       JUL 2013
+33   PHILLIP & SHARON HOLLAND                                                                   R6057   208          TWIN ENTERPRISES INC                                                    2387 DAKOTA TRL                $     13,011.72       JUL 2013
+34   REINIER PEREZ                                                                              R5040   195          RODDY ROY R JR                                                          1932 COLONY OAKS DR            $        300.94       DEC 2013
+35   STEVEN L & RITA L ZIGLER                                                                   R5047   084          RICHARDSON HOMES INC                                                    213 WINDSOR DR                 $        520.83       DEC 2013
+36   SCHUBERT PROPERTIES LLC                                                                    R5124 011            BYRD E E MRS                                                            COOPER RD                      $        932.95       DEC 2013
+37   ELNORA GORGE LLC                                                                           R6108 018            WALROND WARREN                                                          3337 RAE PL                    $        206.59       DEC 2013
+38   ELNORA GORGE LLC                                                                           R6226A080            GALINDO MARIA                                                           2340 BEAVER RUIN RD UN 21      $     11,504.87       DEC 2013
+39   RAM 66 INC                                                                                 R7258 387            BLACKHAWK BUILDERS INC                                                  1247 MAGNOLIA PATH WAY         $        865.85       DEC 2013
+40   LONG RIVER INVESTMENTS INC.                                                                R6057 028M           ERWIN NELLDEN                                                           2184 DAVIS RD                  $      2,938.67       APR 2014
+41   LONG RIVER INVESTMENTS INC.                                                                R6192C015            SATTERLEE SVETLANA                                                      1281 BRANCH DR                 $     19,497.26       APR 2014
+42   AARM PROPERTIES                                                                            R7039 089            BOYLAN TIM                                                              2980 DOWRY DR                  $      3,141.23       APR 2014
+43   LONG RIVER INVESTMENTS INC.                                                                R7266 287            LAVERDE NIDIA                                                           4621 AMBERWYCK CT              $      9,133.67       APR 2014
+44   SEEMA FAIYAZ                                                                               R1002 401            WYNDHAM PARK COMMUNITY ASSN                                             2540 WYNDHAM PARK DR           $         23.95       JUN 2014
+45   FAWN SHE                                                                                   R6154 500            TROUNG BINH MINH ETAL                                                   3230 OAKTREE PARK DR           $    100,029.56       JUN 2014
+46   PFS GROUP LLC                                                                              R6213 066            TRANSWESTERN PINNACLE CTR LAND                                          PINNACLE WAY                   $     31,938.34       JUN 2014
+47   TINA STEVENSON                                                                             R7053 123            MAULDINS LAKE HOA INC                                                   1139 NATHAN MAULDIN DR         $        959.85       JUN 2014
+48   NR DEED, LLC                                                                               R7117 378            GEER KAREN H                                                            1204 BROOKHAVEN CIR            $    155,937.28       JUN 2014
+49   LEE AND COMPANY LLC (AN ALABAMA COMPANY)                                                   R5019 013            JAMES A HAYES                                                           54 ARNOLD RD                   $      6,680.07       JUL 2014
+50   STONEFIELD INVESTMENT FUND III, LLC                                                        R6046 095            PAMELA J BAPTISTE                                                       4386 REBEL CT                  $     66,357.43       JUL 2014
+51   SADRUDDIN KABANI                                                                           R3002A313            VILLAGES AT HAMILTON MILL ASSOCIATION INC                               2065 HAMILTON CREEK PKWY       $      1,556.31       DEC 2014
+52   LIISA JORGENSEN HAMPTON                                                                    R5028 039            WELDON A NASH JR                                                        2706 RAVENWOOD DR              $        190.95       DEC 2014
+53   TRACY MERCIER                                                                              R7290 113            GWINNETT DEKALB RLTY ETAL                                               5039 HIDDEN BRANCH DR          $      4,450.37       DEC 2014
+54   WHITE TREE MUNICIPAL CAPITAL LLC                                                           R7296 082            LULA SMITH HANKS                                                        363 BONA RD                    $      6,453.69       DEC 2014
+55   CHARLES E & GAIL P SMITH                                                                   R7296 086            MAMIE NEAL ROBINSON                                                     361 BONA RD                    $      3,653.31       DEC 2014
+56   LONG RIVER INVESTMENTS INC.                                                                R5095 010            HINES TINA MARIE                                                        1275 OLD LOGANVILLE RD         $      2,784.52       APR 2015
+57   LONG RIVER INVESTMENTS INC.                                                                R6101 001A           KING CHARLES ETAL                                                       608 COLE DR                    $     16,096.96       APR 2015
+58   LONG RIVER INVESTMENTS INC.                                                                R6007 002            RIED ROSA BELL BLACKMON                                                 4180 BLACKMON RD               $      3,238.42       JUL 2015
+59   ENCORE ASSETS LLC                                                                          R6323 047            BENFORD R HOLDBROOKS                                                    3215 CRAIG DR                  $    104,470.27       DEC 2015
+60
+     HUNTINGTON WEST HOA                                                                        R3003B037            MICHELLE CHAMBERS A/K/A MICHELLE ANDREA CHAMBERS JEAN & LINTON, LORNA   4059 GREEN GABLES TRCE         $          0.77       JUN 2016
+61   DEED CO, LLC                                                                               R5228 065            ROSEBERRY JUDY a/k/a JUDITH W ROSEBERRY                                 3150 SPINCASTER WAY            $     86,786.25       JUL 2016
+62   FLORA ASSETS LLC                                                                           R6031 080            NOLEN MICHAEL C ESTATE & HEIRS KNOWN & UNKNOWN OF                       3185 VILLAGE GLEN TRL          $     69,538.85       JUL 2016
+63   HARI REALTY LLC                                                                            R6061 017            STONE MOUNTAIN OUTPARCEL LLC                                            2075 ROCKBRIDGE RD             $     66,835.97       JUL 2016
+64   JACK HSIAO & LEE HWA HSIAO                                                                 R4346B102            MCLEROY HELEN                                                           568 LAKE DR                             $175.26      DEC 2016
+65   R & P ENTERPRISES GROUP LLC                                                                R5080 195            DESHAZER BENNY Jr                                                       484 FIELDSTREAM WAY                   $1,300.90      DEC 2016
+66   R & P ENTERPRISES GROUP LLC                                                                R5140 019            CAGLE DANIEL M                                                          339 CRANE DR                            $937.12      DEC 2016
+67   R & P ENTERPRISES GROUP LLC                                                                R5140 069            CAGLE DANIEL M                                                          CRANE DR                                $937.12      DEC 2016
+                                                                          Gwinnett County Tax Commissioner
+                                                                                    Excess Funds
+
+
+
+
+                                             A                   B                                             D                     E           J              K
+                                                                                                                                                             TAX SALE
+                                        NAME OF BUYER     PARCEL NUMBER                                      OWNER                  SITUS   EXCESS FUNDS
+2                                                                                                                                                          MONTH/YEAR
+
+68   R & P ENTERPRISES GROUP LLC                        R5140 070         CAGLE DANIEL M                             369 LOCKRIDGE LN            $937.12   DEC 2016
+69   A & S REPAIRS & REMODELING LLC                     R5151 041         MCKLEEN LLC                                141 GATES MILL DR         $3,017.19   DEC 2016
+70   MARVIN M MALDONADO                                 R5173   321       MILTON RIDGE LLC                           925 PAPER CREEK DR        $1,792.48   DEC 2016
+71   A & S REPAIRS & REMODELING LLC                     R5276   103       BROOKTON COMMUNITY ASSOC                   2525 FORTUNE DR             $746.11   DEC 2016
+72   R & P ENTERPRISES GROUP LLC                        R6017   001A      CARTER KATIE H ETAL                        3460 HUTCHINS PL            $527.39   DEC 2016
+73   SUSAN CLITES                                       R6031   352       CHANGE TO HUMANITY INC                     3125 HALL GARDEN RD         $533.92   DEC 2016
+74   AUBURN MILL INVESTMENT GROUP LLC                   R6190 082         SMITH NORMA E                              1076 GALE DR             $44,525.74   DEC 2016
+75   BANNY EDGUARDO FLORES CHAVEZ                       R6245 328         PRICE EULA MAE                             5942 OAK RD              $32,032.60   DEC 2016
+76   ZESHAN HU & ZHUBI LIU                              R6246A044         LLOYD MARY STATON                          4496 DEBORAH DR          $37,103.72   DEC 2016
+77   HARVEST ASSESTS LLC                                R6305A001         AGUDELO RICHARD NELSON                     6467 APPLETREE WAY       $60,634.43   DEC 2016
+
