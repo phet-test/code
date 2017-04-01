@@ -1,6 +1,6 @@
 '''
 Finds all profile page URLs of a steam community group
-author: Karl Thornton <karl.genockey.thornton@gmail.com
+author: Karl Thornton <karl.genockey.thornton@gmail.com>
 https://kaijento.github.io/2017/04/01/web-scraping-steamcommunity.com/
 '''
 
