@@ -1,4 +1,6 @@
-# https://kaijento.github.io/2017/04/18/parsing-xml-with-python/
+'''
+https://kaijento.github.io/2017/04/18/parsing-xml-with-python/
+'''
 import csv, sys, lxml.etree
 
 xmlfile = 'input.xml'

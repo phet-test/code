@@ -1,6 +1,5 @@
 '''
-author: Karl Thornton <karl.genockey.thornton@gmail.com>
-https://kaijento.github.io/2017/03/27/PDF-scraping-gwinnetttaxcommissioner.publicaccessnow.com/
+https://kaijento.github.io/2017/03/27/pdf-scraping-gwinnetttaxcommissioner.publicaccessnow.com/
 '''
 import csv, re, requests, sys
 from   subprocess import Popen, PIPE

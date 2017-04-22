@@ -6,7 +6,7 @@ and extracts all images to title/chapter e.g.
     demons_plan/010/01.png
     demons_plan/010/02.png
 
-https://kaijento.github.io/2017/03/23/Web-Scraping-mangastream.com/
+https://kaijento.github.io/2017/03/23/web-scraping-mangastream.com/
 '''
 
 from __future__ import print_function

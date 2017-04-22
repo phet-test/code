@@ -1,6 +1,5 @@
 '''
-author: Karl Thornton <karl.genockey.thornton@gmail.com>
-https://kaijento.github.io/2017/03/30/BeautifulSoup-Removing-tags/
+https://kaijento.github.io/2017/03/30/beautifulboup-removing-tags/
 '''
 
 import csv, json, requests, sys

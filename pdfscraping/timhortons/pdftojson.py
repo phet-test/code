@@ -1,6 +1,5 @@
 '''
-author: Karl Thornton <karl.genockey.thornton@gmail.com>
-https://kaijento.github.io/2017/03/28/PDF-scraping-Tim-Hortons-Invoice/
+https://kaijento.github.io/2017/03/28/pdf-scraping-tim-hortons-invoice/
 '''
 import json, re, subprocess
 
