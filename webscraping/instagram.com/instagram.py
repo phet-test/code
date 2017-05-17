@@ -1,4 +1,5 @@
-#  https://kaijento.github.io/2017/05/17/web-scraping-instagram.com/
+# https://kaijento.github.io/2017/05/17/web-scraping-instagram.com/
+# Scrape instagram in 30 lines of python!!!! omg!!!!!
 from __future__ import print_function
 import json, re, requests
 
